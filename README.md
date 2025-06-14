@@ -2,7 +2,7 @@
 
 ![Alt text](images/04_Legion_Go_S_45_degree_front_facing_right-e1736180724290-1024x493.png)
 
-Windeck for Leigion Go S is a new OS designed by a gmaer for gamers to remove tons of bbloatware and most drivers pre-installed.
+Windeck for Leigion Go S is a new OS designed by a gamer for gamers made for gaming on the go.
 
 This version of windsows enbchances the power of the Legion Go S's hardware by improving the windows experience a bit better thyen the stock experience and utlizes Tiny 11 24H2 official conversion as a base for this project
 
