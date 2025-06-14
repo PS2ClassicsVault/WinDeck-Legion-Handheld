@@ -1,4 +1,4 @@
-# WinDeck-Legion-Handheld (README IS IN W.I.P)
+# WinDeck Legion Go Handheld
 
 ![Alt text](images/04_Legion_Go_S_45_degree_front_facing_right-e1736180724290-1024x493.png)
 
