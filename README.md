@@ -4,7 +4,7 @@
 
 Windeck for Legion Go S is a new OS designed by a gamer for gamers made for gaming on the go.
 
-This version of windsows enchances the power of the Legion Go S's hardware by improving the windows experience a bit better then the stock experience and utlizes Tiny 11 24H2 official conversion as a base for this project
+This version of windows enchances the power of the Legion Go S's hardware by improving the windows experience a bit better then the stock experience and utlizes Tiny 11 24H2 official conversion as a base for this project
 
 ## Features:
 - Bloatware is very very minimal and do not automatically install.
